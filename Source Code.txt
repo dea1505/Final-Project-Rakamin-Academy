@@ -1,3 +1,2 @@
-Link Ipynb : https://github.com/danieltoby7/NEVORYA
 
 Link website Inovasi : https://predict-riskflag.streamlit.app/
